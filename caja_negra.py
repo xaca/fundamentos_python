@@ -1,0 +1,5 @@
+dato = input("Ingrese un valor ")
+print(dato)
+# resultado = print("hola")
+# print()
+# print(resultado)

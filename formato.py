@@ -1,0 +1,25 @@
+# dato = None
+# dato = input("Ingrese el dato ")
+# print(f"El dato ingresado es {dato}, ¿Esta correcto?")
+# print("El dato ingresado es "+dato+", ¿Esta correcto?")
+
+# print("Hola")
+# print("Hola","Mundo",sep=" ",end="")
+# print("Feliz")
+# print("[1",2,3,"4]",sep="/")
+
+#print("\tHola\tmundo")
+
+# print("            .,,,,,,,,,,.")
+# print("         ,;;;;;;;;;;;;;;,")
+# print("       ,;;;;;;;;;;;)));;(((,,;;;,,_")
+# print("      ,;;;;;;;;;;'      |)))))))))))\\\\")
+# print("      ;;;;;;/ )''    - /,)))((((((((((\\")
+# print("      ;;;;' \        ~|\  ))))))))))))))")
+# print("      /     /         |   ((((((((((((((")
+# print("    /'      \      _/~'    ')|()))))))))")
+# print("  /'         `\   />     o_/)))((((((((")
+# print(" /          /' `~~(____ /  ()))))))))))")
+# print("|     ---,   \        \     ((((((((((")
+# print("          `\   \~-_____|      ))))))))")
+# print("            `\  |      |_.---.  \       -Tua Xiong")

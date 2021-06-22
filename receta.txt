@@ -1,0 +1,12 @@
+1. Inicio
+2. Salga de la casa
+3. Camine hasta la esquina
+4. Tome el bus, circular sur en direccion poblado
+5. 
+
+
+
+
+
+
+56. Fin
